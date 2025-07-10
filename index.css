@@ -53,3 +53,8 @@ form {
 label {
   display: grid;
 }
+
+.invite-form {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
